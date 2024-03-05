@@ -22,7 +22,7 @@ In this assignment, you will have the opportunity to practice integrating APIs i
 - Include a brief description of each endpoint and its purpose within your app.
 
 ## Deadline:
-[Insert Deadline Date]
+7-Mar-2024 , at 9:59 am 
 
 ## Conclusion:
 This assignment provides an excellent opportunity to gain hands-on experience in integrating APIs into Flutter applications. By utilizing each endpoint of the provided API and creating at least 5 screens, you will demonstrate proficiency in working with external data sources, implementing various functionalities, and designing user-friendly interfaces within your app. Good luck, and have fun developing your Flutter app!
